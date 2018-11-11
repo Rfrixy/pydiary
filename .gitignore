@@ -1,0 +1,14 @@
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.pyc
+*.bak
+.ipynb_checkpoints
+.tox
+.DS_Store
+.vscode
+.coverage
+*.swp
+*.map
+.idea/
